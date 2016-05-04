@@ -73,8 +73,8 @@
 				<li>
 					<img src="assets/images/slider/stlewis.jpg" style="opacity: 0.6;">
 					<div class="caption left-align">
-						<h3>St. Lewis 2016!!!</h3>
-						<h5 class="light grey-text text-lighten-3">We were lucky to get picked to go.</h5>
+						<h3>St. Louis Championship 2016!!!</h3>
+						<h5 class="light grey-text text-lighten-3">We got picked to go.</h5>
 					</div>
 				</li>
 			</ul>
