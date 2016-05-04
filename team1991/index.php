@@ -5,7 +5,7 @@
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 	<meta content="IE=edge" http-equiv="X-UA-Compatible">
     <meta content="width=device-width, initial-scale=1" name="viewport">
-	<meta name="theme-color" content="#2196f3">
+	<meta name="theme-color" content="#ff9800">
 	<title>Team 1991</title>
 	
 	<!-- Materialize Main styles -->
