@@ -95,7 +95,7 @@
 							<span class="card-title grey-text text-darken-4">Solidworks</span>
 						</div>
 						<div class="card-action">
-							<a href="http://www.solidworks.com/"><span class="orange-text text-accent-4">Visit Website</span></a>
+							<a href="http://www.solidworks.com/" target="_blank"><span class="orange-text text-accent-4">Visit Website</span></a>
 						</div>
 					</div>
 					
@@ -107,7 +107,7 @@
 							<span class="card-title grey-text text-darken-4">Tallan</span>
 						</div>
 						<div class="card-action">
-							<a href="http://www.tallan.com/"><span class="orange-text text-accent-4">Visit Website</span></a>
+							<a href="http://www.tallan.com/" target="_blank"><span class="orange-text text-accent-4">Visit Website</span></a>
 						</div>
 					</div>
 					
@@ -119,7 +119,7 @@
 							<span class="card-title grey-text text-darken-4">Nutmeg State Financial Credit Union</span>
 						</div>
 						<div class="card-action">
-							<a href="http://www.nutmegstatefcu.org/"><span class="orange-text text-accent-4">Visit Website</span></a>
+							<a href="http://www.nutmegstatefcu.org/" target="_blank"><span class="orange-text text-accent-4">Visit Website</span></a>
 						</div>
 					</div>
 					
@@ -131,7 +131,7 @@
 							<span class="card-title grey-text text-darken-4">Satellite Tool & Machine Co.</span>
 						</div>
 						<div class="card-action">
-							<a href="http://www.satellitetoolmachine.net/"><span class="orange-text text-accent-4">Visit Website</span></a>
+							<a href="http://www.satellitetoolmachine.net/" target="_blank"><span class="orange-text text-accent-4">Visit Website</span></a>
 						</div>
 					</div>
 				</div>
@@ -146,7 +146,7 @@
 							<span class="card-title grey-text text-darken-4">Nasa</span>
 						</div>
 						<div class="card-action">
-							<a href="http://www.nasa.gov/"><span class="orange-text text-accent-4">Visit Website</span></a>
+							<a href="http://www.nasa.gov/" target="_blank"><span class="orange-text text-accent-4">Visit Website</span></a>
 						</div>
 					</div>
 					
@@ -158,7 +158,7 @@
 							<span class="card-title grey-text text-darken-4">Aetna</span>
 						</div>
 						<div class="card-action">
-							<a href="http://www.aetna.com/"><span class="orange-text text-accent-4">Visit Website</span></a>
+							<a href="http://www.aetna.com/" target="_blank"><span class="orange-text text-accent-4">Visit Website</span></a>
 						</div>
 					</div>
 					
@@ -170,7 +170,7 @@
 							<span class="card-title grey-text text-darken-4">Lagana Florists</span>
 						</div>
 						<div class="card-action">
-							<a href="http://www.laganaflorist.com/"><span class="orange-text text-accent-4">Visit Website</span></a>
+							<a href="http://www.laganaflorist.com/" target="_blank"><span class="orange-text text-accent-4">Visit Website</span></a>
 						</div>
 					</div>
 					
@@ -182,7 +182,7 @@
 							<span class="card-title grey-text text-darken-4">Industrial Surplus</span>
 						</div>
 						<div class="card-action">
-							<a href="http://www.industrialsurplus.com/"><span class="orange-text text-accent-4">Visit Website</span></a>
+							<a href="http://www.industrialsurplus.com/" target="_blank"><span class="orange-text text-accent-4">Visit Website</span></a>
 						</div>
 					</div>
 				</div>
@@ -197,7 +197,7 @@
 							<span class="card-title grey-text text-darken-4">University of Hartford</span>
 						</div>
 						<div class="card-action">
-							<a href="http://www.hartford.edu/"><span class="orange-text text-accent-4">Visit Website</span></a>
+							<a href="http://www.hartford.edu/" target="_blank"><span class="orange-text text-accent-4">Visit Website</span></a>
 						</div>
 					</div>
 					
@@ -209,7 +209,7 @@
 							<span class="card-title grey-text text-darken-4">Hartford Public Schools</span>
 						</div>
 						<div class="card-action">
-							<a href="http://www.hartfordschools.org/"><span class="orange-text text-accent-4">Visit Website</span></a>
+							<a href="http://www.hartfordschools.org/" target="_blank"><span class="orange-text text-accent-4">Visit Website</span></a>
 						</div>
 					</div>
 					
@@ -221,7 +221,7 @@
 							<span class="card-title grey-text text-darken-4">Pratt & Whitney</span>
 						</div>
 						<div class="card-action">
-							<a href="http://www.pw.utc.com/"><span class="orange-text text-accent-4">Visit Website</span></a>
+							<a href="http://www.pw.utc.com/" target="_blank"><span class="orange-text text-accent-4">Visit Website</span></a>
 						</div>
 					</div>
 					
@@ -233,7 +233,7 @@
 							<span class="card-title grey-text text-darken-4">Tsunami Tsolutions</span>
 						</div>
 						<div class="card-action">
-							<a href="http://www.tsunamitsolutions.com/"><span class="orange-text text-accent-4">Visit Website</span></a>
+							<a href="http://www.tsunamitsolutions.com/" target="_blank"><span class="orange-text text-accent-4">Visit Website</span></a>
 						</div>
 					</div>
 				</div>
