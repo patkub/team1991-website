@@ -5,7 +5,7 @@
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 	<meta content="IE=edge" http-equiv="X-UA-Compatible">
     <meta content="width=device-width, initial-scale=1" name="viewport">
-	<meta name="theme-color" content="#ff9800">
+	<meta name="theme-color" content="#FF9800">
 	<title>Team 1991</title>
 	
 	<!-- Materialize Main styles -->
@@ -61,69 +61,90 @@
 	<div class="header-space"></div>
 	
 	<main>
-		<div class="container">
-			
-			<div class="col m12">
-				<!-- Team -->
-				<div class="card">
-					<div class="card-content header-content">
-						<span class="card-title"><h1>Team 1991</h1></span>
-					</div>
-				</div>
-				
-				<!-- About -->
-				<div class="card">
-					<div class="card-panel light-blue lighten-4">
-						<div class="header-content">
-							<span class="card-title"><h4>About Us</h4></span>
-						</div>
-						<div class="card-content">
-							Team 1991, the Dragons, is a student run high school team which was founded in 2007 by a group of students, teachers and mentors who wanted to represent their school's engineering focus in a competitive environment.
-							<br><br>
-							Participation in the team gives students an opportunity to learn about engineering and technology through hands on experience. Since the team operates like a business, students acquire many professional skills, such as managing a budget, making presentations and planning our build season. As an extracurricular program, the team allows students to apply concepts learned in school as well as develop new skills thanks to various workshops taught by our mentors. In the past years, the students were able to take advantage of the SolidWorks, LabView, Welding and Electronics classes taught by our mentors.
-							<br><br>
-							Each year, the team participates in the <i>F.I.R.S.T.</i> Robotics Competition which <i>F.I.R.S.T.</i> calls as the "Varsity Sport for the Mind&trade;". The teams are given only six weeks to design, construct and program a robot which will compete against other teams in regional and national events. This closely mimics the real life challenges engineers face when working on the projects.
+		<!-- Team -->
+		<div class="section white">
+			<div class="container">
+				<div class="col m12">
+					<div class="card">
+						<div class="card-content header-content">
+							<span class="card-title"><h1>Team 1991</h1></span>
 						</div>
 					</div>
 				</div>
 			</div>
-			
-			<div class="row">
-				<!-- ROBOTS -->
-				<div class="col l6">
-					<div class="card large">
-						<div class="card-image feature-img waves-effect waves-block waves-light" style="height:300px">
-							<img class="activator" src="../assets/images/first/robots.jpg">
-						</div>
-						<div class="card-content">
-							<span class="card-title activator grey-text text-darken-4">Robots<i class="material-icons right">more_vert</i></span>
-						</div>
-						<div class="card-action">
-							<a href="/robots/"><span class="orange-text text-accent-4">View Robots</span></a>
-						</div>
-						<div class="card-reveal">
-							<span class="card-title grey-text text-darken-4">Robots<i class="material-icons right">close</i></span>
-							<p>Our past creations.</p>
+		</div>
+		
+		<div class="parallax-container">
+			<div class="parallax"><img src="../assets/images/slider/team.jpg"></div>
+		</div>
+		
+		<!-- About -->
+		<div class="section white">
+			<div class="container">
+				<div class="col m12">
+					<div class="card">
+						<div class="card-panel light-blue lighten-4">
+							<div class="header-content">
+								<span class="card-title"><h4>About Us</h4></span>
+							</div>
+							<div class="card-content">
+								Team 1991, the Dragons, is a student run high school team which was founded in 2007 by a group of students, teachers and mentors who wanted to represent their school's engineering focus in a competitive environment.
+								<br><br>
+								Participation in the team gives students an opportunity to learn about engineering and technology through hands on experience. Since the team operates like a business, students acquire many professional skills, such as managing a budget, making presentations and planning our build season. As an extracurricular program, the team allows students to apply concepts learned in school as well as develop new skills thanks to various workshops taught by our mentors. In the past years, the students were able to take advantage of the SolidWorks, LabView, Welding and Electronics classes taught by our mentors.
+								<br><br>
+								Each year, the team participates in the <i>F.I.R.S.T.</i> Robotics Competition which <i>F.I.R.S.T.</i> calls as the "Varsity Sport for the Mind&trade;". The teams are given only six weeks to design, construct and program a robot which will compete against other teams in regional and national events. This closely mimics the real life challenges engineers face when working on the projects.
+							</div>
 						</div>
 					</div>
 				</div>
-				
-				<!-- AWARDS -->
-				<div class="col l6">
-					<div class="card large">
-						<div class="card-image feature-img waves-effect waves-block waves-light" style="height:300px">
-							<img class="activator" src="../assets/images/feature/awards.jpg">
-						</div>
-						<div class="card-content">
-							<span class="card-title activator grey-text text-darken-4">Awards<i class="material-icons right">more_vert</i></span>
-						</div>
-						<div class="card-action">
-							<a href="/awards/"><span class="orange-text text-accent-4">View Awards</span></a>
-						</div>
-						<div class="card-reveal">
-							<span class="card-title grey-text text-darken-4">Awards<i class="material-icons right">close</i></span>
-							<p>See what our team has accomplished in the past years.</p>
-						</div>
+			</div>
+		</div>
+		
+		<div class="parallax-container">
+			<div class="parallax"><img src="../assets/images/first/robots.jpg"></div>
+		</div>
+		
+		<!-- Robots -->
+		<div class="section white">
+			<div class="container">
+				<div class="card large">
+					<div class="card-image feature-img waves-effect waves-block waves-light" style="height:300px">
+						<img class="activator" src="../assets/images/first/robots.jpg">
+					</div>
+					<div class="card-content">
+						<span class="card-title activator grey-text text-darken-4">Robots<i class="material-icons right">more_vert</i></span>
+					</div>
+					<div class="card-action">
+						<a href="/robots/"><span class="orange-text text-accent-4">View Robots</span></a>
+					</div>
+					<div class="card-reveal">
+						<span class="card-title grey-text text-darken-4">Robots<i class="material-icons right">close</i></span>
+						<p>Our past creations.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<div class="parallax-container">
+			<div class="parallax"><img src="../assets/images/feature/photos.jpg"></div>
+		</div>
+		
+		<!-- Awards -->
+		<div class="section white">
+			<div class="container">
+				<div class="card large">
+					<div class="card-image feature-img waves-effect waves-block waves-light" style="height:300px">
+						<img class="activator" src="../assets/images/feature/awards.jpg">
+					</div>
+					<div class="card-content">
+						<span class="card-title activator grey-text text-darken-4">Awards<i class="material-icons right">more_vert</i></span>
+					</div>
+					<div class="card-action">
+						<a href="/awards/"><span class="orange-text text-accent-4">View Awards</span></a>
+					</div>
+					<div class="card-reveal">
+						<span class="card-title grey-text text-darken-4">Awards<i class="material-icons right">close</i></span>
+						<p>See what our team has accomplished in the past years.</p>
 					</div>
 				</div>
 			</div>
@@ -163,5 +184,17 @@
 
 <!-- Menu -->
 <script src="../assets/menu/menu.js"></script>
+
+<!-- Parallax -->
+<script>
+$(document).ready(function(){
+	$('.parallax').parallax();
+});
+</script>
+<style>
+.parallax-container {
+	height: 600px;
+}    
+</style>
 
 </html>
