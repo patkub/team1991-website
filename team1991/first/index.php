@@ -75,7 +75,7 @@
 				<div class="card">
 					<div class="card light-blue lighten-4">
 						<div class="card-image waves-effect waves-block waves-light">
-							<img src="../assets/images/feature/first.jpg">
+							<a href="http://www.firstinspires.org/" target="_blank"><img src="../assets/images/feature/first.jpg"></a>
 						</div>
 						<div class="card-content">
 							<div class="header-content">
