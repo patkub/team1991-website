@@ -61,9 +61,9 @@
 	<div class="header-space"></div>
 	
 	<main>
-		<!-- Team -->
-		<div class="section white">
+		<div class="section">
 			<div class="container">
+				<!-- Team -->
 				<div class="col m12">
 					<div class="card">
 						<div class="card-content header-content">
@@ -71,18 +71,10 @@
 						</div>
 					</div>
 				</div>
-			</div>
-		</div>
-		
-		<div class="parallax-container">
-			<div class="parallax"><img src="../assets/images/slider/team.jpg"></div>
-		</div>
-		
-		<!-- About -->
-		<div class="section white">
-			<div class="container">
+				
+				<!-- About -->
 				<div class="col m12">
-					<div class="card">
+					<div class="card" style="font-size:18pt">
 						<div class="card-panel light-blue lighten-4">
 							<div class="header-content">
 								<span class="card-title"><h4>About Us</h4></span>
@@ -100,12 +92,14 @@
 			</div>
 		</div>
 		
+		<!-- About -->
+		
 		<div class="parallax-container">
 			<div class="parallax"><img src="../assets/images/first/robots.jpg"></div>
 		</div>
 		
 		<!-- Robots -->
-		<div class="section white">
+		<div class="section orange">
 			<div class="container">
 				<div class="card large">
 					<div class="card-image feature-img waves-effect waves-block waves-light" style="height:300px">
@@ -193,7 +187,7 @@ $(document).ready(function(){
 </script>
 <style>
 .parallax-container {
-	height: 600px;
+	height: 500px;
 }    
 </style>
 

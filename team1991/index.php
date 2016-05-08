@@ -90,19 +90,20 @@
 					</div>
 				</div>
 				
-				<!-- About -->
+				<!-- Chairmans -->
 				<div class="card">
-					<div class="card-panel light-blue lighten-4">
+					<div class="card-content">
 						<div class="header-content">
-							<span class="card-title"><h4>About Us</h4></span>
+							<span class="card-title"><h4>Chairman's Submission 2016</h4></span>
 						</div>
-						<div class="card-content">
-							Team 1991, the Dragons, is a student run high school team which was founded in 2007 by a group of students, teachers and mentors who wanted to represent their school's engineering focus in a competitive environment.
-							<br><br>
-							Participation in the team gives students an opportunity to learn about engineering and technology through hands on experience. Since the team operates like a business, students acquire many professional skills, such as managing a budget, making presentations and planning our build season. As an extracurricular program, the team allows students to apply concepts learned in school as well as develop new skills thanks to various workshops taught by our mentors. In the past years, the students were able to take advantage of the SolidWorks, LabView, Welding and Electronics classes taught by our mentors.
-							<br><br>
-							Each year, the team participates in the <i>F.I.R.S.T.</i> Robotics Competition which <i>F.I.R.S.T.</i> calls as the "Varsity Sport for the Mind&trade;". The teams are given only six weeks to design, construct and program a robot which will compete against other teams in regional and national events. This closely mimics the real life challenges engineers face when working on the projects.
-						</div>
+						<video id="my-video" class="video-js responsive-video" controls preload="auto" poster="assets/media/poster.jpg" data-setup="{}">
+							<source src="assets/media/chairmans_2016.webm" type='video/webm'>
+							<source src="assets/media/chairmans_2016.mp4" type='video/mp4'>
+							<p class="vjs-no-js">
+								To view this video please enable JavaScript, and consider upgrading to a web browser that
+								<a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
+							</p>
+						</video>
 					</div>
 				</div>
 			</div>
@@ -220,6 +221,12 @@
 
 <!-- Menu -->
 <script src="assets/menu/menu.js"></script>
+
+<!-- Video.js -->
+<link href="http://vjs.zencdn.net/5.9.2/video-js.css" rel="stylesheet">
+
+<!-- Video.js IE8 -->
+<script src="http://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script>
 
 <script>
 $(document).ready(function () {

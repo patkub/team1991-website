@@ -19,7 +19,7 @@ body {
 body header {
   font-family: 'Fakt-Normal', Helvetica, Arial, '微軟正黑體', 'Microsoft JhengHei', '微软雅黑體', 'Microsoft YaHei';
   position: fixed;
-  z-index: 3000;
+  z-index: 999;
   top: 0;
   right: 0;
   left: 0;
