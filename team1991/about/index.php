@@ -74,7 +74,7 @@
 				
 				<!-- About -->
 				<div class="col m12">
-					<div class="card" style="font-size:18pt">
+					<div class="card">
 						<div class="card-panel light-blue lighten-4">
 							<div class="header-content">
 								<span class="card-title"><h4>About Us</h4></span>
