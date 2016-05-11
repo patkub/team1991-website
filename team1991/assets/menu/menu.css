@@ -117,29 +117,6 @@ body header .nav-items .nav-link.selected {
   color: #000;
   border-color: #fb8c00;
 }
-body header .nav-items .button-area {
-  float: left;
-  height: 79px;
-  border-bottom: 7px solid transparent;
-}
-body header .nav-items .button-area .vive-button {
-  display: block;
-  margin: 18px 20px 0 20px;
-}
-@media (max-width: 1500px) {
-  body header .nav-items .button-area .vive-button {
-    margin-right: 10px;
-    margin-left: 10px;
-  }
-}
-@media (max-width: 1270px) {
-  body header .nav-items .button-area .vive-button {
-    margin-right: 5px;
-    margin-left: 5px;
-    padding-right: 20px;
-    padding-left: 20px;
-  }
-}
 body header .hamburger {
   position: absolute;
   top: 0;
