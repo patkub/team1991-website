@@ -111,8 +111,8 @@
 			<div class="row">
 				<!-- PHOTOS -->
 				<div class="col l6">
-					<div class="card large">
-						<div class="card-image feature-img waves-effect waves-block waves-light" style="height:300px">
+					<div class="card">
+						<div class="card-image feature-img waves-effect waves-block waves-light">
 							<img class="activator" src="assets/images/feature/photos.jpg">
 						</div>
 						<div class="card-content">
@@ -130,8 +130,8 @@
 				
 				<!-- AWARDS -->
 				<div class="col l6">
-					<div class="card large">
-						<div class="card-image feature-img waves-effect waves-block waves-light" style="height:300px">
+					<div class="card">
+						<div class="card-image feature-img waves-effect waves-block waves-light">
 							<img class="activator" src="assets/images/feature/awards.jpg">
 						</div>
 						<div class="card-content">
@@ -149,8 +149,8 @@
 				
 				<!-- FIRST -->
 				<div class="col l6">
-					<div class="card large">
-						<div class="card-image feature-img waves-effect waves-block waves-light" style="height:300px">
+					<div class="card">
+						<div class="card-image feature-img waves-effect waves-block waves-light">
 							<img class="activator" src="assets/images/feature/first.jpg">
 						</div>
 						<div class="card-content">
@@ -168,8 +168,8 @@
 				
 				<!-- Sponsors -->
 				<div class="col l6">
-					<div class="card large">
-						<div class="card-image feature-img waves-effect waves-block waves-light" style="height:300px">
+					<div class="card">
+						<div class="card-image feature-img waves-effect waves-block waves-light">
 							<img class="activator" src="assets/images/sponsors/solidworks.jpg">
 						</div>
 						<div class="card-content">

@@ -22,6 +22,7 @@ main {
 /* feature image crop and center with fixed height */
 .feature-img {
     width: 100%;
+	height: 300px;
     overflow: hidden;
     position: relative;
 }
