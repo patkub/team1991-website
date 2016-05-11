@@ -81,9 +81,52 @@
 					</div>
 				</div>
 				
-				<div class="card">
-					<div class="card-content">
-						Coming Soon!
+				<div id="grid" class="grid">
+					<div class="grid-sizer"></div>
+					
+					<!-- 2014 -->
+					<div class="grid-item">
+						<img class="materialboxed lazy" data-caption="2014 Groton District Event Winner Team Photo" src="../assets/images/photos/2014/01.jpg">
+					</div>
+					<div class="grid-item">
+						<img class="materialboxed lazy" data-caption="2014 Groton District Event Winner" src="../assets/images/photos/2014/02.jpg">
+					</div>
+					
+					<!-- 2013 -->
+					<div class="grid-item">
+						<img class="materialboxed lazy" data-caption="2013 Ultimate Ascent Robot" src="../assets/images/photos/2013/01.jpg">
+					</div>
+					<div class="grid-item">
+						<img class="materialboxed lazy" data-caption="2013 Ultimate Ascent Robot" src="../assets/images/photos/2013/02.jpg">
+					</div>
+					<div class="grid-item">
+						<img class="materialboxed lazy" data-caption="#1 for Pit Safety" src="../assets/images/photos/2013/03.jpg">
+					</div>
+					<div class="grid-item">
+						<img class="materialboxed lazy" data-caption="Principle Mr. Folan" src="../assets/images/photos/2013/04.jpg">
+					</div>
+					<div class="grid-item">
+						<img class="materialboxed lazy" data-caption="Pit Crew" src="../assets/images/photos/2013/05.jpg">
+					</div>
+					
+					<!-- 2012 -->
+					<div class="grid-item">
+						<img class="materialboxed lazy" data-caption="2012 Rebound Rumble Robot" src="../assets/images/photos/2012/01.jpg">
+					</div>
+					<div class="grid-item">
+						<img class="materialboxed lazy" data-caption="Van transporting robot" src="../assets/images/photos/2012/02.jpg">
+					</div>
+					<div class="grid-item">
+						<img class="materialboxed lazy" data-caption="Shred-it 2012" src="../assets/images/photos/2012/03.jpg">
+					</div>
+					<div class="grid-item">
+						<img class="materialboxed lazy" data-caption="Shred-it 2012" src="../assets/images/photos/2012/04.jpg">
+					</div>
+					<div class="grid-item">
+						<img class="materialboxed lazy" data-caption="Shred-it 2012" src="../assets/images/photos/2012/05.jpg">
+					</div>
+					<div class="grid-item">
+						<img class="materialboxed lazy" data-caption="Shred-it 2012" src="../assets/images/photos/2012/06.jpg">
 					</div>
 				</div>
 			</div>
@@ -123,5 +166,17 @@
 
 <!-- Menu -->
 <script src="../assets/menu/menu.js"></script>
+
+<!-- Masonry -->
+<script src="https://npmcdn.com/masonry-layout@4.0/dist/masonry.pkgd.min.js"></script>
+
+<!-- imagesLoaded -->
+<script src="https://npmcdn.com/imagesloaded@4.1/imagesloaded.pkgd.min.js"></script>
+
+<!-- lazyload -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.lazyload/1.9.1/jquery.lazyload.min.js"></script>
+
+<!-- Photos -->
+<script src="../assets/photos.js"></script>
 
 </html>
