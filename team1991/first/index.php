@@ -112,11 +112,11 @@
 				<!-- Game Animations -->
 				<div class="card">
 					<div class="card-image feature-img" style="background-color: black; height:400px">
-						<a href="/first/games/" target="_blank"><img src="../assets/images/games/dozer.jpg" style="opacity: 0.6;"></a>
+						<a href="/first/games/"><img src="../assets/images/games/dozer.jpg" style="opacity: 0.6;"></a>
 						<span class="card-title"><h3>Game Animations</h3></span>
 					</div>
 					<div class="card-action">
-						<a href="/first/games/" target="_blank"><span class="orange-text text-accent-4">View Game Animations</span></a>
+						<a href="/first/games/"><span class="orange-text text-accent-4">View Game Animations</span></a>
 					</div>
 				</div>
 			</div>
