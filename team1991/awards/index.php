@@ -84,6 +84,22 @@
 					</div>
 				</div>
 				
+				<!-- 2016 -->
+				<div class="card teal lighten-4">
+					<div class="card-content">
+						<div class="header-content">
+							<span class="card-title"><h4>2016</h4></span>
+							<h5>NE District - Hartford Event</h5>
+							<ul class="collapsible" data-collapsible="expandable">
+								<li>
+									<div class="collapsible-header">Gracious Professionalism Award sponsored by Johnson & Johnson</div>
+									<div class="collapsible-body grey lighten-3"><p>Celebrates outstanding demonstration of <i>FIRST</i> Core Values such as continuous Gracious Professionalism® working together both on and off the playing field.</p></div>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				
 				<!-- 2015 -->
 				<div class="card teal lighten-4">
 					<div class="card-content">
@@ -105,11 +121,11 @@
 					<div class="card-content">
 						<div class="header-content">
 							<span class="card-title"><h4>2014</h4></span>
-							<h5>NE District - Hartford Event</h5>
+							<h5>NE District - Groton Event</h5>
 							<ul class="collapsible" data-collapsible="expandable">
 								<li>
 									<div class="collapsible-header">District Event Winner</div>
-									<div class="collapsible-body grey lighten-3"><p>Winner of the Hartford competition together with teams 230 and 1699.</p></div>
+									<div class="collapsible-body grey lighten-3"><p>Winner of the Groton competition together with teams 230 and 1699.</p></div>
 								</li>
 							</ul>
 						</div>
