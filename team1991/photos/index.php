@@ -84,6 +84,62 @@
 				<div id="grid" class="grid">
 					<div class="grid-sizer"></div>
 					
+					<!-- 2016 -->
+					<div class="grid-item">
+						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/01.jpg">
+					</div>
+					<div class="grid-item">
+						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/02.jpg">
+					</div>
+					<div class="grid-item">
+						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/03.jpg">
+					</div>
+					<div class="grid-item">
+						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/04.jpg">
+					</div>
+					<div class="grid-item">
+						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/05.jpg">
+					</div>
+					<div class="grid-item">
+						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/06.jpg">
+					</div>
+					<div class="grid-item">
+						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/07.jpg">
+					</div>
+					<div class="grid-item">
+						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/08.jpg">
+					</div>
+					<div class="grid-item">
+						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/09.jpg">
+					</div>
+					<div class="grid-item">
+						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/10.jpg">
+					</div>
+					<div class="grid-item">
+						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/11.jpg">
+					</div>
+					<div class="grid-item">
+						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/12.jpg">
+					</div>
+					<div class="grid-item">
+						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/13.jpg">
+					</div>
+					<div class="grid-item">
+						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/14.jpg">
+					</div>
+					<div class="grid-item">
+						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/15.jpg">
+					</div>
+					<div class="grid-item">
+						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/16.jpg">
+					</div>
+					<div class="grid-item">
+						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/17.jpg">
+					</div>
+					<div class="grid-item">
+						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/18.jpg">
+					</div>
+					
 					<!-- 2015 -->
 					<div class="grid-item">
 						<img class="materialboxed lazy" data-caption="Robot" src="../assets/images/photos/2015/01.jpg">
