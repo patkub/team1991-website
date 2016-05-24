@@ -242,6 +242,9 @@
 					<div class="grid-item">
 						<img class="materialboxed lazy" data-caption="2014 Groton District Event Winner" src="../assets/images/photos/2014/02.jpg">
 					</div>
+					<div class="grid-item">
+						<img class="materialboxed lazy" data-caption="Fixing Robot" src="../assets/images/photos/2014/03.jpg">
+					</div>
 					
 					<!-- 2013 -->
 					<div class="grid-item">
@@ -258,6 +261,9 @@
 					</div>
 					<div class="grid-item">
 						<img class="materialboxed lazy" data-caption="Pit Crew" src="../assets/images/photos/2013/05.jpg">
+					</div>
+					<div class="grid-item">
+						<img class="materialboxed lazy" src="../assets/images/photos/2013/06.jpg">
 					</div>
 					
 					<!-- 2012 -->

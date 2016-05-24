@@ -80,20 +80,99 @@
 						</div>
 					</div>
 				</div>
+			</div>
+			
+			<!-- robot grid -->
+			<style>
+			@media (min-width: 768px) {
+				.grid-item {
+					width: 50%;
+					padding-right: 10px;
+				}
+			}
+
+			.feature-img {
+				height: 400px;
+			}
+			</style>
+			
+			<div id="grid" class="grid">
+				<div class="grid-sizer"></div>
 				
-				<!-- 2015 -->
-				<div class="card">
-					<div class="card-image">
-						<img src="../assets/images/robots/2015.jpg">
-					</div>
-					<div class="card-content">
-						<div class="header-content">
-							<span class="card-title"><h4>2015</h4></span>
-							Robot for the 2015 Recycle Rush game.
+				<!-- 2016 -->
+				<div class="grid-item">
+					<div class="card">
+						<div class="card-image feature-img">
+							<img src="../assets/images/robots/2016.jpg">
+						</div>
+						<div class="card-content">
+							<div class="header-content">
+								<span class="card-title"><h4>2016</h4></span>
+								Robot for the 2016 Stronghold game.
+							</div>
 						</div>
 					</div>
 				</div>
 				
+				<!-- 2015 -->
+				<div class="grid-item">
+					<div class="card">
+						<div class="card-image feature-img">
+							<img src="../assets/images/robots/2015.jpg">
+						</div>
+						<div class="card-content">
+							<div class="header-content">
+								<span class="card-title"><h4>2015</h4></span>
+								Robot for the 2015 Recycle Rush game.
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<!-- 2014 -->
+				<div class="grid-item">
+					<div class="card">
+						<div class="card-image feature-img">
+							<img src="../assets/images/robots/2014.jpg">
+						</div>
+						<div class="card-content">
+							<div class="header-content">
+								<span class="card-title"><h4>2014</h4></span>
+								Robot for the 2014 Aerial Assist game.
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<!-- 2013 -->
+				<div class="grid-item">
+					<div class="card">
+						<div class="card-image feature-img">
+							<img src="../assets/images/robots/2013.jpg">
+						</div>
+						<div class="card-content">
+							<div class="header-content">
+								<span class="card-title"><h4>2013</h4></span>
+								Robot for the 2013 Ultimate Ascent game.
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<!-- 2012 -->
+				<div class="grid-item">
+					<div class="card">
+						<div class="card-image feature-img">
+							<img src="../assets/images/robots/2012.jpg">
+						</div>
+						<div class="card-content">
+							<div class="header-content">
+								<span class="card-title"><h4>2012</h4></span>
+								Robot for the 2012 Rebound Rumble game.
+							</div>
+						</div>
+					</div>
+				</div>
 			</div>
 		</div>
 	</main>
