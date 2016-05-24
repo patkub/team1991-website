@@ -79,7 +79,7 @@
 				</li>
 				<li>
 					<img src="assets/images/slider/stlouis_arc.jpg" style="opacity: 0.6;">
-					<div class="caption left-align">
+					<div class="caption right-align">
 						<h3>St. Louis Gateway Arch</h3>
 					</div>
 				</li>
