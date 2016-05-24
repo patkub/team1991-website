@@ -86,204 +86,204 @@
 					
 					<!-- 2016 -->
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/01.jpg">
+						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/thumbs/01.jpg" data-original="../assets/images/photos/2016/01.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/02.jpg">
+						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/thumbs/02.jpg" data-original="../assets/images/photos/2016/02.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/03.jpg">
+						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/thumbs/03.jpg" data-original="../assets/images/photos/2016/03.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/04.jpg">
+						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/thumbs/04.jpg" data-original="../assets/images/photos/2016/04.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/05.jpg">
+						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/thumbs/05.jpg" data-original="../assets/images/photos/2016/05.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/06.jpg">
+						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/thumbs/06.jpg" data-original="../assets/images/photos/2016/06.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/07.jpg">
+						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/thumbs/07.jpg" data-original="../assets/images/photos/2016/07.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/08.jpg">
+						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/thumbs/08.jpg" data-original="../assets/images/photos/2016/08.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/09.jpg">
+						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/thumbs/09.jpg" data-original="../assets/images/photos/2016/09.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/10.jpg">
+						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/thumbs/10.jpg" data-original="../assets/images/photos/2016/10.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/11.jpg">
+						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/thumbs/11.jpg" data-original="../assets/images/photos/2016/11.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/12.jpg">
+						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/thumbs/12.jpg" data-original="../assets/images/photos/2016/12.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/13.jpg">
+						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/thumbs/13.jpg" data-original="../assets/images/photos/2016/13.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/14.jpg">
+						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/thumbs/14.jpg" data-original="../assets/images/photos/2016/14.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/15.jpg">
+						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/thumbs/15.jpg" data-original="../assets/images/photos/2016/15.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/16.jpg">
+						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/thumbs/16.jpg" data-original="../assets/images/photos/2016/16.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/17.jpg">
+						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/thumbs/17.jpg" data-original="../assets/images/photos/2016/17.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/18.jpg">
+						<img class="materialboxed lazy" data-caption="St. Louis" src="../assets/images/photos/2016/thumbs/18.jpg" data-original="../assets/images/photos/2016/18.jpg">
 					</div>
 					
 					<!-- 2015 -->
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="Robot" src="../assets/images/photos/2015/01.jpg">
+						<img class="materialboxed lazy" data-caption="Robot" src="../assets/images/photos/2015/thumbs/01.jpg" data-original="../assets/images/photos/2015/01.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="Ippi" src="../assets/images/photos/2015/02.jpg">
+						<img class="materialboxed lazy" data-caption="Ippi" src="../assets/images/photos/2015/thumbs/02.jpg" data-original="../assets/images/photos/2015/02.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="Pit" src="../assets/images/photos/2015/03.jpg">
+						<img class="materialboxed lazy" data-caption="Pit" src="../assets/images/photos/2015/thumbs/03.jpg" data-original="../assets/images/photos/2015/03.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="Team Flag" src="../assets/images/photos/2015/04.jpg">
+						<img class="materialboxed lazy" data-caption="Team Flag" src="../assets/images/photos/2015/thumbs/04.jpg" data-original="../assets/images/photos/2015/04.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="Stands" src="../assets/images/photos/2015/05.jpg">
+						<img class="materialboxed lazy" data-caption="Stands" src="../assets/images/photos/2015/thumbs/05.jpg" data-original="../assets/images/photos/2015/05.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="Cheer" src="../assets/images/photos/2015/06.jpg">
+						<img class="materialboxed lazy" data-caption="Cheer" src="../assets/images/photos/2015/thumbs/06.jpg" data-original="../assets/images/photos/2015/06.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="Dance" src="../assets/images/photos/2015/07.jpg">
+						<img class="materialboxed lazy" data-caption="Dance" src="../assets/images/photos/2015/thumbs/07.jpg" data-original="../assets/images/photos/2015/07.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="Driver" src="../assets/images/photos/2015/08.jpg">
+						<img class="materialboxed lazy" data-caption="Driver" src="../assets/images/photos/2015/thumbs/08.jpg" data-original="../assets/images/photos/2015/08.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="Totes" src="../assets/images/photos/2015/09.jpg">
+						<img class="materialboxed lazy" data-caption="Totes" src="../assets/images/photos/2015/thumbs/09.jpg" data-original="../assets/images/photos/2015/09.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="Dragon" src="../assets/images/photos/2015/10.jpg">
+						<img class="materialboxed lazy" data-caption="Dragon" src="../assets/images/photos/2015/thumbs/10.jpg" data-original="../assets/images/photos/2015/10.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="Banner" src="../assets/images/photos/2015/11.jpg">
+						<img class="materialboxed lazy" data-caption="Banner" src="../assets/images/photos/2015/thumbs/12.jpg" data-original="../assets/images/photos/2015/11.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="Ready" src="../assets/images/photos/2015/12.jpg">
+						<img class="materialboxed lazy" data-caption="Ready" src="../assets/images/photos/2015/thumbs/11.jpg" data-original="../assets/images/photos/2015/12.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="Fellow Dragon from &Uuml;berBots" src="../assets/images/photos/2015/13.jpg">
+						<img class="materialboxed lazy" data-caption="Fellow Dragon from &Uuml;berBots" src="../assets/images/photos/2015/thumbs/13.jpg" data-original="../assets/images/photos/2015/13.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="Buttons" src="../assets/images/photos/2015/14.jpg">
+						<img class="materialboxed lazy" data-caption="Buttons" src="../assets/images/photos/2015/thumbs/14.jpg" data-original="../assets/images/photos/2015/14.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="In the pit" src="../assets/images/photos/2015/15.jpg">
+						<img class="materialboxed lazy" data-caption="In the pit" src="../assets/images/photos/2015/thumbs/15.jpg" data-original="../assets/images/photos/2015/15.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="Stacking Totes" src="../assets/images/photos/2015/16.jpg">
+						<img class="materialboxed lazy" data-caption="Stacking Totes" src="../assets/images/photos/2015/thumbs/16.jpg" data-original="../assets/images/photos/2015/16.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="Award highfives" src="../assets/images/photos/2015/17.jpg">
+						<img class="materialboxed lazy" data-caption="Award highfives" src="../assets/images/photos/2015/thumbs/17.jpg" data-original="../assets/images/photos/2015/17.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="Woodie Flowers" src="../assets/images/photos/2015/18.jpg">
+						<img class="materialboxed lazy" data-caption="Woodie Flowers" src="../assets/images/photos/2015/thumbs/18.jpg" data-original="../assets/images/photos/2015/18.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="Hartford District Event" src="../assets/images/photos/2015/19.jpg">
+						<img class="materialboxed lazy" data-caption="Hartford District Event" src="../assets/images/photos/2015/thumbs/19.jpg" data-original="../assets/images/photos/2015/19.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="Hartford District Event" src="../assets/images/photos/2015/20.jpg">
+						<img class="materialboxed lazy" data-caption="Hartford District Event" src="../assets/images/photos/2015/thumbs/20.jpg" data-original="../assets/images/photos/2015/20.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="Drivers" src="../assets/images/photos/2015/21.jpg">
+						<img class="materialboxed lazy" data-caption="Drivers" src="../assets/images/photos/2015/thumbs/21.jpg" data-original="../assets/images/photos/2015/21.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="Redshift" src="../assets/images/photos/2015/22.jpg">
+						<img class="materialboxed lazy" data-caption="Redshift" src="../assets/images/photos/2015/thumbs/22.jpg" data-original="../assets/images/photos/2015/22.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="Hartford District Event" src="../assets/images/photos/2015/23.jpg">
+						<img class="materialboxed lazy" data-caption="Hartford District Event" src="../assets/images/photos/2015/thumbs/23.jpg" data-original="../assets/images/photos/2015/23.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="Volunteers" src="../assets/images/photos/2015/24.jpg">
+						<img class="materialboxed lazy" data-caption="Volunteers" src="../assets/images/photos/2015/thumbs/24.jpg" data-original="../assets/images/photos/2015/24.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="Train" src="../assets/images/photos/2015/25.jpg">
+						<img class="materialboxed lazy" data-caption="Train" src="../assets/images/photos/2015/thumbs/25.jpg" data-original="../assets/images/photos/2015/25.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="Team at Hartford District Event" src="../assets/images/photos/2015/26.jpg">
+						<img class="materialboxed lazy" data-caption="Team at Hartford District Event" src="../assets/images/photos/2015/thumbs/26.jpg" data-original="../assets/images/photos/2015/26.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="Mentors at Hartford District Event" src="../assets/images/photos/2015/27.jpg">
+						<img class="materialboxed lazy" data-caption="Mentors at Hartford District Event" src="../assets/images/photos/2015/thumbs/27.jpg" data-original="../assets/images/photos/2015/27.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="Springfield District Event" src="../assets/images/photos/2015/28.jpg">
+						<img class="materialboxed lazy" data-caption="Springfield District Event" src="../assets/images/photos/2015/thumbs/28.jpg" data-original="../assets/images/photos/2015/28.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="Waterbury District Event" src="../assets/images/photos/2015/29.jpg">
+						<img class="materialboxed lazy" data-caption="Waterbury District Event" src="../assets/images/photos/2015/thumbs/29.jpg" data-original="../assets/images/photos/2015/29.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="Waterbury District Event" src="../assets/images/photos/2015/30.jpg">
+						<img class="materialboxed lazy" data-caption="Waterbury District Event" src="../assets/images/photos/2015/thumbs/30.jpg" data-original="../assets/images/photos/2015/30.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="Waterbury District Event" src="../assets/images/photos/2015/31.jpg">
+						<img class="materialboxed lazy" data-caption="Waterbury District Event" src="../assets/images/photos/2015/thumbs/31.jpg" data-original="../assets/images/photos/2015/31.jpg">
 					</div>
 					
 					<!-- 2014 -->
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="2014 Groton District Event Winner Team Photo" src="../assets/images/photos/2014/01.jpg">
+						<img class="materialboxed lazy" data-caption="2014 Groton District Event Winner Team Photo" src="../assets/images/photos/2014/thumbs/01.jpg" data-original="../assets/images/photos/2014/01.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="2014 Groton District Event Winner" src="../assets/images/photos/2014/02.jpg">
+						<img class="materialboxed lazy" data-caption="2014 Groton District Event Winner" src="../assets/images/photos/2014/thumbs/02.jpg" data-original="../assets/images/photos/2014/02.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="Fixing Robot" src="../assets/images/photos/2014/03.jpg">
+						<img class="materialboxed lazy" data-caption="Fixing Robot" src="../assets/images/photos/2014/thumbs/03.jpg" data-original="../assets/images/photos/2014/03.jpg">
 					</div>
 					
 					<!-- 2013 -->
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="2013 Ultimate Ascent Robot" src="../assets/images/photos/2013/01.jpg">
+						<img class="materialboxed lazy" data-caption="2013 Ultimate Ascent Robot" src="../assets/images/photos/2013/thumbs/01.jpg" data-original="../assets/images/photos/2013/01.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="2013 Ultimate Ascent Robot" src="../assets/images/photos/2013/02.jpg">
+						<img class="materialboxed lazy" data-caption="2013 Ultimate Ascent Robot" src="../assets/images/photos/2013/thumbs/02.jpg" data-original="../assets/images/photos/2013/02.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="#1 for Pit Safety" src="../assets/images/photos/2013/03.jpg">
+						<img class="materialboxed lazy" data-caption="#1 for Pit Safety" src="../assets/images/photos/2013/thumbs/03.jpg" data-original="../assets/images/photos/2013/03.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="Principle Mr. Folan" src="../assets/images/photos/2013/04.jpg">
+						<img class="materialboxed lazy" data-caption="Principle Mr. Folan" src="../assets/images/photos/2013/thumbs/04.jpg" data-original="../assets/images/photos/2013/04.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="Pit Crew" src="../assets/images/photos/2013/05.jpg">
+						<img class="materialboxed lazy" data-caption="Pit Crew" src="../assets/images/photos/2013/thumbs/05.jpg" data-original="../assets/images/photos/2013/05.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" src="../assets/images/photos/2013/06.jpg">
+						<img class="materialboxed lazy" src="../assets/images/photos/2013/thumbs/06.jpg" data-original="../assets/images/photos/2013/06.jpg">
 					</div>
 					
 					<!-- 2012 -->
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="2012 Rebound Rumble Robot" src="../assets/images/photos/2012/01.jpg">
+						<img class="materialboxed lazy" data-caption="2012 Rebound Rumble Robot" src="../assets/images/photos/2012/thumbs/01.jpg" data-original="../assets/images/photos/2012/01.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="Van transporting robot" src="../assets/images/photos/2012/02.jpg">
+						<img class="materialboxed lazy" data-caption="Van transporting robot" src="../assets/images/photos/2012/thumbs/02.jpg" data-original="../assets/images/photos/2012/02.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="Shred-it 2012" src="../assets/images/photos/2012/03.jpg">
+						<img class="materialboxed lazy" data-caption="Shred-it 2012" src="../assets/images/photos/2012/thumbs/03.jpg" data-original="../assets/images/photos/2012/03.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="Shred-it 2012" src="../assets/images/photos/2012/04.jpg">
+						<img class="materialboxed lazy" data-caption="Shred-it 2012" src="../assets/images/photos/2012/thumbs/04.jpg" data-original="../assets/images/photos/2012/04.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="Shred-it 2012" src="../assets/images/photos/2012/05.jpg">
+						<img class="materialboxed lazy" data-caption="Shred-it 2012" src="../assets/images/photos/2012/thumbs/05.jpg" data-original="../assets/images/photos/2012/05.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed lazy" data-caption="Shred-it 2012" src="../assets/images/photos/2012/06.jpg">
+						<img class="materialboxed lazy" data-caption="Shred-it 2012" src="../assets/images/photos/2012/thumbs/06.jpg" data-original="../assets/images/photos/2012/06.jpg">
 					</div>
 				</div>
 			</div>

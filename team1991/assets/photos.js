@@ -8,7 +8,16 @@ var msnry, openIMG;
 $(function() {
 	// lazy load images
 	$("img.lazy").lazyload();
-});
+	
+	// thumbnails: load original image on click
+	var origin = $(this);
+	origin.on('click', function(){
+		if (!imageChanged && origin.data('original') !== ""){
+			origin.attr("src", origin.data("original"));
+			imageChanged = true;
+		}
+	});
+}(jQuery));
 
 imagesLoaded(grid, function() {
 	// init Isotope after all images have loaded
