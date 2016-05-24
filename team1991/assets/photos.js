@@ -11,8 +11,9 @@ $(function() {
 	
 	// thumbnails: load original image on click
 	var origin = $(this);
+	var imageChanged = false;
 	origin.on('click', function(){
-		if (!imageChanged && origin.data('original') !== ""){
+		if (!imageChanged && origin.data('original') !== "" & !isMobile.any){
 			origin.attr("src", origin.data("original"));
 			imageChanged = true;
 		}

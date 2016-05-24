@@ -333,6 +333,9 @@
 <!-- lazyload -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.lazyload/1.9.1/jquery.lazyload.min.js"></script>
 
+<!-- isMobile -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/ismobilejs/0.4.0/isMobile.min.js"></script>
+
 <!-- Photos -->
 <script src="../assets/photos.js"></script>
 
