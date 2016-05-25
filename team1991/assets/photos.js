@@ -3,22 +3,7 @@
  * Make masonry compatible with materializecss' material box and lazy load images.
  */
 
-var msnry, openIMG;
-
-$(function() {
-	// lazy load images
-	$("img.lazy").lazyload();
-	
-	// thumbnails: load original image on click
-	var origin = $(this);
-	var imageChanged = false;
-	origin.on('click', function(){
-		if (!imageChanged && origin.data('original') !== "" & !isMobile.any){
-			origin.attr("src", origin.data("original"));
-			imageChanged = true;
-		}
-	});
-}(jQuery));
+var msnry, openIMG, isGridOpen = true;
 
 imagesLoaded(grid, function() {
 	// init Isotope after all images have loaded
@@ -34,23 +19,21 @@ imagesLoaded(grid, function() {
 		$(this).addClass("open-img");
 		$(this).removeClass("grid-item");
 		openIMG = this;
+		isGridOpen = false;
 	});
 	
 	// return image back to grid on container click
 	$container.on('click', '.open-img', function() {
-		// add grid-item class back in and remove open-img class
-		$(this).removeClass("open-img");
-		$(this).addClass("grid-item");
+		imgBackToGrid(openIMG);
 	});
 	
 	// return image back to grid on click
 	$("img").click(function(){
-		if ($(this).hasClass("materialboxed"))
-		{
-			$(this).click(function(){
-				$(openIMG).removeClass("open-img");
-				$(openIMG).addClass("grid-item");
-			});
+		if (!isGridOpen) {
+			imgBackToGrid(openIMG);
+			loadThumb($(this));
+		} else {
+			loadOriginal($(this));
 		}
 	});
 	
@@ -58,8 +41,8 @@ imagesLoaded(grid, function() {
 	$(window).scroll(function() {
 		if ($("img").hasClass("materialboxed"))
 		{
-			$(openIMG).removeClass("open-img");
-			$(openIMG).addClass("grid-item");
+			imgBackToGrid(openIMG);
+			loadThumb($(this));
 		}
 	});
 
@@ -67,9 +50,31 @@ imagesLoaded(grid, function() {
 	$(document).keyup(function(e) {
 		if (e.keyCode === 27) {
 			if ($("img").hasClass("materialboxed")) {
-				$(openIMG).removeClass("open-img");
-				$(openIMG).addClass("grid-item");
+				imgBackToGrid(openIMG);
+				loadThumb($(this));
 			}
 		}
 	});
 });
+
+// return image back to grid
+function imgBackToGrid(openIMG) {
+	// remove open-img class and add grid-item class back in
+	$(openIMG).removeClass("open-img");
+	$(openIMG).addClass("grid-item");
+	isGridOpen = true;
+}
+
+// load in thumbnail
+function loadThumb(img) {
+	if (img.data("thumb") !== "") {
+		img.attr("src", img.data("thumb"));
+	}
+}
+
+// load in original
+function loadOriginal(img) {
+	if (img.data("original") !== "" & !isMobile.any){
+		img.attr("src", img.data("original"));
+	}
+}
