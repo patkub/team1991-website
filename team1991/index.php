@@ -11,20 +11,32 @@
 	<!-- Materialize Main styles -->
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.6/css/materialize.min.css">
 	
-	<!-- Material Icons -->
-	<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-	
-	<!-- Font Awesome -->
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
-	
 	<!-- Menu -->
-	<link rel="stylesheet" href="assets/menu/menu.css">
-	
-	<!-- Custom styles -->
-	<link rel="stylesheet" href="assets/application.css">
+	<link rel="stylesheet" type="text/css" href="assets/menu/menu.min.css"/>
 </head>
 
 <body>
+	<noscript id="deferred-styles">
+		<!-- Material Icons -->
+		<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/icon?family=Material+Icons"/>
+		
+		<!-- Custom styles -->
+		<link rel="stylesheet" type="text/css" href="assets/application.min.css"/>
+	</noscript>
+    <script>
+      var loadDeferredStyles = function() {
+        var addStylesNode = document.getElementById("deferred-styles");
+        var replacement = document.createElement("div");
+        replacement.innerHTML = addStylesNode.textContent;
+        document.body.appendChild(replacement)
+        addStylesNode.parentElement.removeChild(addStylesNode);
+      };
+      var raf = requestAnimationFrame || mozRequestAnimationFrame ||
+          webkitRequestAnimationFrame || msRequestAnimationFrame;
+      if (raf) raf(function() { window.setTimeout(loadDeferredStyles, 0); });
+      else window.addEventListener('load', loadDeferredStyles);
+    </script>
+	
 	<header class="menu z-depth-1" style="display: block;">
 		<div class="center-column">
 			<div class="header-items">
@@ -226,10 +238,10 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.6/js/materialize.min.js"></script>
 
 <!-- Menu -->
-<script src="assets/menu/menu.js"></script>
+<script src="assets/menu/menu.min.js"></script>
 
 <!-- Video.js -->
-<link href="http://vjs.zencdn.net/5.9.2/video-js.css" rel="stylesheet">
+<link href="http://vjs.zencdn.net/5.9.2/video-js.min.css" rel="stylesheet">
 
 <!-- Video.js IE8 -->
 <script src="http://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script>

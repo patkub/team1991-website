@@ -11,20 +11,32 @@
 	<!-- Materialize Main styles -->
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.6/css/materialize.min.css">
 	
-	<!-- Material Icons -->
-	<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-	
-	<!-- Font Awesome -->
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
-	
 	<!-- Menu -->
-	<link rel="stylesheet" href="../assets/menu/menu.css">
-	
-	<!-- Custom styles -->
-	<link rel="stylesheet" href="../assets/application.css">
+	<link rel="stylesheet" href="../assets/menu/menu.min.css">
 </head>
 
 <body>
+	<noscript id="deferred-styles">
+		<!-- Material Icons -->
+		<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/icon?family=Material+Icons"/>
+		
+		<!-- Custom styles -->
+		<link rel="stylesheet" type="text/css" href="../assets/application.min.css"/>
+	</noscript>
+    <script>
+      var loadDeferredStyles = function() {
+        var addStylesNode = document.getElementById("deferred-styles");
+        var replacement = document.createElement("div");
+        replacement.innerHTML = addStylesNode.textContent;
+        document.body.appendChild(replacement)
+        addStylesNode.parentElement.removeChild(addStylesNode);
+      };
+      var raf = requestAnimationFrame || mozRequestAnimationFrame ||
+          webkitRequestAnimationFrame || msRequestAnimationFrame;
+      if (raf) raf(function() { window.setTimeout(loadDeferredStyles, 0); });
+      else window.addEventListener('load', loadDeferredStyles);
+    </script>
+	
 	<header class="menu z-depth-1" style="display: block;">
 		<div class="center-column">
 			<div class="header-items">
@@ -172,10 +184,10 @@
 						<img class="materialboxed" data-caption="Dragon" src="../assets/images/photos/2015/thumbs/10.jpg" data-thumb="../assets/images/photos/2015/thumbs/10.jpg" data-original="../assets/images/photos/2015/10.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed" data-caption="Banner" src="../assets/images/photos/2015/thumbs/12.jpg" data-thumb="../assets/images/photos/2015/thumbs/11.jpg" data-original="../assets/images/photos/2015/11.jpg">
+						<img class="materialboxed" data-caption="Banner" src="../assets/images/photos/2015/thumbs/11.jpg" data-thumb="../assets/images/photos/2015/thumbs/11.jpg" data-original="../assets/images/photos/2015/11.jpg">
 					</div>
 					<div class="grid-item">
-						<img class="materialboxed" data-caption="Ready" src="../assets/images/photos/2015/thumbs/11.jpg" data-thumb="../assets/images/photos/2015/thumbs/12.jpg" data-original="../assets/images/photos/2015/12.jpg">
+						<img class="materialboxed" data-caption="Ready" src="../assets/images/photos/2015/thumbs/12.jpg" data-thumb="../assets/images/photos/2015/thumbs/12.jpg" data-original="../assets/images/photos/2015/12.jpg">
 					</div>
 					<div class="grid-item">
 						<img class="materialboxed" data-caption="Fellow Dragon from &Uuml;berBots" src="../assets/images/photos/2015/thumbs/13.jpg" data-thumb="../assets/images/photos/2015/thumbs/13.jpg" data-original="../assets/images/photos/2015/13.jpg">
@@ -334,6 +346,6 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/ismobilejs/0.4.0/isMobile.min.js"></script>
 
 <!-- Photos -->
-<script src="../assets/photos.js"></script>
+<script src="../assets/photos.min.js"></script>
 
 </html>
