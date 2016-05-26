@@ -325,27 +325,26 @@
 			</div>
 		</div>
 	</footer>
+	
+	<!-- jQuery -->
+	<script src="http://code.jquery.com/jquery-2.2.0.min.js"></script>
+
+	<!-- Materialize compiled and minified JavaScript -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.6/js/materialize.min.js"></script>
+
+	<!-- Menu -->
+	<script src="../assets/menu/menu.js"></script>
+
+	<!-- Masonry -->
+	<script src="https://npmcdn.com/masonry-layout@4.0/dist/masonry.pkgd.min.js"></script>
+
+	<!-- imagesLoaded -->
+	<script src="https://npmcdn.com/imagesloaded@4.1/imagesloaded.pkgd.min.js"></script>
+
+	<!-- isMobile -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/ismobilejs/0.4.0/isMobile.min.js"></script>
+
+	<!-- Photos -->
+	<script src="../assets/photos.min.js"></script>
 </body>
-
-<!-- jQuery -->
-<script src="http://code.jquery.com/jquery-2.2.0.min.js"></script>
-
-<!-- Materialize compiled and minified JavaScript -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.6/js/materialize.min.js"></script>
-
-<!-- Menu -->
-<script src="../assets/menu/menu.js"></script>
-
-<!-- Masonry -->
-<script src="https://npmcdn.com/masonry-layout@4.0/dist/masonry.pkgd.min.js"></script>
-
-<!-- imagesLoaded -->
-<script src="https://npmcdn.com/imagesloaded@4.1/imagesloaded.pkgd.min.js"></script>
-
-<!-- isMobile -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/ismobilejs/0.4.0/isMobile.min.js"></script>
-
-<!-- Photos -->
-<script src="../assets/photos.min.js"></script>
-
 </html>

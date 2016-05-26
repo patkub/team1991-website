@@ -180,22 +180,21 @@
 			</div>
 		</div>
 	</footer>
+	
+	<!-- jQuery -->
+	<script src="http://code.jquery.com/jquery-2.2.0.min.js"></script>
+
+	<!-- Materialize compiled and minified JavaScript -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.6/js/materialize.min.js"></script>
+
+	<!-- Menu -->
+	<script src="../assets/menu/menu.min.js"></script>
+
+	<!-- Parallax -->
+	<script>
+	$(document).ready(function(){
+		$('.parallax').parallax();
+	});
+	</script>
 </body>
-
-<!-- jQuery -->
-<script src="http://code.jquery.com/jquery-2.2.0.min.js"></script>
-
-<!-- Materialize compiled and minified JavaScript -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.6/js/materialize.min.js"></script>
-
-<!-- Menu -->
-<script src="../assets/menu/menu.min.js"></script>
-
-<!-- Parallax -->
-<script>
-$(document).ready(function(){
-	$('.parallax').parallax();
-});
-</script>
-
 </html>

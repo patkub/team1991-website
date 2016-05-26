@@ -22,6 +22,9 @@
 		
 		<!-- Custom styles -->
 		<link rel="stylesheet" type="text/css" href="assets/application.min.css"/>
+		
+		<!-- Video.js -->
+		<link href="https://vjs.zencdn.net/5.10.2/video-js.css" rel="stylesheet">
 	</noscript>
     <script>
       var loadDeferredStyles = function() {
@@ -229,31 +232,27 @@
 			</div>
 		</div>
 	</footer>
-</body>
+	
+	<!-- jQuery -->
+	<script src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
 
-<!-- jQuery -->
-<script src="http://code.jquery.com/jquery-2.2.0.min.js"></script>
+	<!-- Materialize compiled and minified JavaScript -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.6/js/materialize.min.js"></script>
 
-<!-- Materialize compiled and minified JavaScript -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.6/js/materialize.min.js"></script>
+	<!-- Menu -->
+	<script src="assets/menu/menu.min.js"></script>
+	
+	<!-- Video.js IE8 -->
+	<script src="https://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script>
 
-<!-- Menu -->
-<script src="assets/menu/menu.min.js"></script>
-
-<!-- Video.js -->
-<link href="http://vjs.zencdn.net/5.9.2/video-js.min.css" rel="stylesheet">
-
-<!-- Video.js IE8 -->
-<script src="http://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script>
-
-<script>
-$(document).ready(function () {
-    $('.slider').slider({
-		full_width: true,
-		time_constant: 10,
-		height: 500
+	<script>
+	$(document).ready(function () {
+		$('.slider').slider({
+			full_width: true,
+			time_constant: 10,
+			height: 500
+		});
 	});
-});
-</script>
-
+	</script>
+</body>
 </html>
