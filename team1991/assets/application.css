@@ -1,12 +1,20 @@
 /* flexbox */
 body {
-	display: flex;
+	display: -webkit-box;			/* OLD - iOS 6-, Safari 3.1-6 */
+	display: -moz-box;				/* OLD - Firefox 19- (buggy but mostly works) */
+	display: -ms-flexbox;			/* TWEENER - IE 10 */
+	display: -webkit-flex;			/* NEW - Chrome */
+	display: flex;					/* NEW, Spec - Opera 12.1, Firefox 20+ */
 	min-height: 100vh;
 	flex-direction: column;
 }
 
 main {
-	flex: 1 0 auto;
+	-webkit-box-flex: 1 0 auto;		/* OLD - iOS 6-, Safari 3.1-6 */
+	-moz-box-flex: 1 0 auto;		/* OLD - Firefox 19- */
+	-webkit-flex: 1 0 auto;			/* Chrome */
+	-ms-flex: 1 0 auto;				/* IE 10 */
+	flex: 1 0 auto;					/* NEW, Spec - Opera 12.1, Firefox 20+ */
 }
 
 /* menu */
@@ -36,6 +44,11 @@ main {
     margin: auto;
     min-height: 100%;
     min-width: 100%;
+}
+
+/* parallax height */
+.parallax-container {
+	height: 500px;
 }
 
 /* photo grid */
