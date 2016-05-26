@@ -7,10 +7,6 @@ function chromeDropdownHeight() {
 
 $(document).ready(function() {
     'use strict';
-    // enable CSS transitions on page load
-    $(window).on('load', function() {
-        $('body').removeClass('disable-css-transitions');
-    });
 	
 	// determine height of header
 	var space = $(".header-items").height();
