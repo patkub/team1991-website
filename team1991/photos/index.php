@@ -336,10 +336,10 @@
 	<script src="../assets/menu/menu.js"></script>
 
 	<!-- Masonry -->
-	<script src="https://npmcdn.com/masonry-layout@4.0/dist/masonry.pkgd.min.js"></script>
+	<script src="https://unpkg.com/masonry-layout@4.0/dist/masonry.pkgd.min.js"></script>
 
 	<!-- imagesLoaded -->
-	<script src="https://npmcdn.com/imagesloaded@4.1/imagesloaded.pkgd.min.js"></script>
+	<script src="https://unpkg.com/imagesloaded@4.1/imagesloaded.pkgd.min.js"></script>
 
 	<!-- isMobile -->
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/ismobilejs/0.4.0/isMobile.min.js"></script>
